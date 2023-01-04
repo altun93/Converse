@@ -1,2 +1,2 @@
 # Converse
-https://altun93.github.io/Coverse/
+https://altun93.github.io/Converse/
